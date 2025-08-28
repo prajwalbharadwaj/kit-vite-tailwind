@@ -54,12 +54,7 @@
     "src/**"
   ],
   "cSpell.words": [
-    "vuetify",
-    "Vaultry",
-    "tabler",
-    "heroicons",
-    "headlessui",
-    "primeui"
+    "vite",
   ],
   // Disable the default formatter, use eslint instead
   "prettier.enable": false,
